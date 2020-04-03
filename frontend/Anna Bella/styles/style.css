@@ -1,0 +1,8 @@
+body {
+    background: #b2b2c1 url("../images/fundo.png");
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#window {
+    width: 900px;
+}
