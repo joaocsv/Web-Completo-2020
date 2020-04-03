@@ -6,3 +6,29 @@ body {
 #window {
     width: 900px;
 }
+
+#main {
+    background: #c5c5b2;
+    padding: 18px;
+}
+
+#main > a {
+    color: #4b566a;
+    font-weight: bolder;
+    text-decoration: none;
+    padding: 5px;
+}
+
+#content {
+    background: #e8e8d9;
+    padding: 20px;
+}
+
+#content > h1 {
+    color: #828271;
+    font-size: 1.2em;
+}
+
+.centralizar {
+    text-align: center;
+}
