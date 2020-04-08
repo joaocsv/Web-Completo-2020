@@ -68,6 +68,10 @@ a:hover {
     color: #f7b600;
 }
 
+.postagem p {
+    font-size: 0.9em;
+}
+
 .data-postagem {
     display: block;
     font-size: 0.8em;
