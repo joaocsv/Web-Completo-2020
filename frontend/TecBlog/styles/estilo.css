@@ -81,6 +81,24 @@ a:hover {
     float: right;
 }
 
+.conteudo-lateral {
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#area-menu-lateral h3 {
+    color: #565656;
+    background-color: #cccc;
+    padding: 5px;
+}
+
+.postagem-lateral {
+    font-size: 0.8em;
+    padding: 5px;
+    border-bottom: 1px dotted #ccc;
+}
+
 #area-rodape {
     clear: both;
 }
