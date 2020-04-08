@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Trebuchet", Helvetica, sans-serif;
+    font-size: 1em;
+    background-color: #e6e6e6;
+}
+
+#area-cabecalho {
+    background-color: #f7b600;
+    text-align: center;
+    padding: 15px;
+}
+
+#area-logo, #area-menu {
+    padding: 10px;
+}
+
+#area-logo > h1 {
+    font-size: 2.5em;
+    color: #4e4e4e;
+}
+
+#area-menu > a {
+    text-decoration: none;
+}
+
+#area-menu > a:link, #area-menu > a:visited {
+    color: #fff;
+    padding: 8px 12px;
+}
+
+#area-menu > a:hover {
+    color:  #f7b600;
+    background-color: #fff;
+    text-decoration: none;
+}
+
+
+.texto-branco {
+    color: #fff;
+}
