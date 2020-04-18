@@ -1,0 +1,11 @@
+#container-rodape {
+    clear: both;
+    background: #294c71;
+    padding: 20px;
+}
+
+#rodape {
+    width: 720px;
+    margin: 0 auto;
+    color: #fff;
+}

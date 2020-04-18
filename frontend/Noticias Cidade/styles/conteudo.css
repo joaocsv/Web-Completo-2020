@@ -1,0 +1,25 @@
+#conteudo {
+    margin-top: 60px;
+    background: #f5f5f5;
+}
+
+#primario {
+    background-color: black;
+    width: 270px;
+    float: left;
+    margin: 0 0 20px 195px;
+}
+
+#secundario {
+    background-color: blue;
+    width: 270px;
+    float: left;
+    margin: 0 0px 20px 15px;
+}
+
+#lateral {
+    background-color: brown;
+    width: 180px;
+    float: left;
+    margin: 0 0 20px -750px;
+}
