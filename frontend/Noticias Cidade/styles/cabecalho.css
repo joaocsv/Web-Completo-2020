@@ -1,0 +1,12 @@
+#topo {
+    height: 150px;
+    padding-top: 25px;
+    background: url(../images/detalhe-topo.png) no-repeat right top;
+}
+
+#topo > h1.logo {
+    width: 152px;
+    height: 66px;
+    background: url(../images/logo.png) no-repeat center;
+    text-indent: -3000px;
+}

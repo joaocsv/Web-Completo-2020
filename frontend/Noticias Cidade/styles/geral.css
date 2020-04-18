@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background: #fff url(../images/fundo.png) repeat-x left top;
+}
+
+#container {
+    width: 750px;
+    margin: 0 auto;
+}
+
