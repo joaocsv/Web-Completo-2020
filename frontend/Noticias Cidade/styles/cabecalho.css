@@ -35,6 +35,10 @@
     background: url(../images/divisor.png) no-repeat left center;
 }
 
+#topo > #navegacao > li.primeiro a {
+    background: none;
+}
+
 #topo > #navegacao > li > a:hover {
     color: #69001d;
 }
