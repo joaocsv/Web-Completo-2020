@@ -22,6 +22,19 @@
     margin: 0 0 20px -750px;
 }
 
+body#duas-colunas #primario {
+    width: 555px;
+}
+
+body#uma-coluna #primario {
+    width: 750px;
+    margin: 0  0 20px 0px;
+}
+
+/*
+    Caixas
+*/
+
 .caixa {
     background: url(../images/fundo-caixa.png);
     padding: 5px;
